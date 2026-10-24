@@ -1,0 +1,13 @@
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
+
+# Local scratch
+_devices.html
+*.log
